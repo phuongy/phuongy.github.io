@@ -1,0 +1,63 @@
+{
+  "sources": [
+    {
+      "id": "channel-7",
+      "name": "Channel 7",
+      "logo": "/sources/channel-7/logo.jpg"
+    }
+  ],
+  "teasers": [
+    {
+      "id": 0,
+      "title": "Home and Away",
+      "source": {
+        "id": "channel-7",
+        "name": "Channel 7",
+        "logo": "/sources/channel-7/logo.png"
+      },
+      "image": "/teasers/home-and-away/tile.jpg",
+      "date": "date",
+      "time": "time",
+      "summary": "summary"
+    },
+    {
+      "id": 1,
+      "title": "Home and Away new series return",
+      "source": {
+        "id": "channel-7",
+        "name": "Channel 7",
+        "logo": "/sources/channel-7/logo.png"
+      },
+      "image": "/teasers/home-and-away/tile.jpg",
+      "date": "date",
+      "time": "time",
+      "summary": "summary"
+    },
+    {
+      "id": 2,
+      "title": "New TV show with a longer title that shouldn't fit one line",
+      "source": {
+        "id": "channel-7",
+        "name": "Channel 7",
+        "logo": "/sources/channel-7/logo.png"
+      },
+      "image": "/teasers/home-and-away/tile.jpg",
+      "date": "date",
+      "time": "time",
+      "summary": "summary"
+    },
+    {
+      "id": 3,
+      "title": "Home and Away 2",
+      "source": {
+        "id": "channel-7",
+        "name": "Channel 7",
+        "logo": "/sources/channel-7/logo.png"
+      },
+      "image": "/teasers/home-and-away/tile.jpg",
+      "date": "date",
+      "time": "time",
+      "summary": "summary"
+    }
+  ]
+}
